@@ -10,10 +10,10 @@
 // failure if they're out of date, and thus make you aware of
 // dependency changes during code review.
 //
-// See https://github.com/tailscale/depaware
+// See https://github.com/ratrocket/depaware
 package main
 
-import "github.com/tailscale/depaware/depaware"
+import "github.com/ratrocket/depaware/depaware"
 
 func main() {
 	depaware.Main()

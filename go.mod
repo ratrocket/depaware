@@ -1,4 +1,4 @@
-module github.com/tailscale/depaware
+module github.com/ratrocket/depaware
 
 go 1.15
 
